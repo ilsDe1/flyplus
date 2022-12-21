@@ -1984,7 +1984,7 @@ oeKUdKQ9aAFHPJpcChelLQB//9k=</data>
 			<key>PayloadIdentifier</key>
 			<string>net.configuration.FlyPlus3</string>
 			<key>PayloadOrganization</key>
-			<string>MrRobot</string>
+			<string>Fly Store</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -2004,7 +2004,7 @@ oeKUdKQ9aAFHPJpcChelLQB//9k=</data>
 	<key>PayloadIdentifier</key>
 	<string>net.configuration.FlyPlus3</string>
 	<key>PayloadOrganization</key>
-	<string>MrRobot</string>
+	<string>Fly Store</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>

@@ -14334,7 +14334,7 @@ v1/rR0Agdui44ziqjuckemf0NWn+8PrVJ/vN+P8AOgEVpGO6mbjTpfvVHWbeoXP/2Q==</data>
 			<key>PayloadIdentifier</key>
 			<string>net.configuration.FlyPlus4</string>
 			<key>PayloadOrganization</key>
-			<string>MrRobot</string>
+			<string>Fly Store</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -14354,7 +14354,7 @@ v1/rR0Agdui44ziqjuckemf0NWn+8PrVJ/vN+P8AOgEVpGO6mbjTpfvVHWbeoXP/2Q==</data>
 	<key>PayloadIdentifier</key>
 	<string>net.configuration.FlyPlus4</string>
 	<key>PayloadOrganization</key>
-	<string>MrRobot</string>
+	<string>Fly Store</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
