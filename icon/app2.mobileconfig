@@ -1978,7 +1978,7 @@ oeKUdKQ9aAFHPJpcChelLQB//9k=</data>
 			<key>Label</key>
 			<string>Fly Plus </string>
 			<key>PayloadDescription</key>
-			<string></string>
+			<string>fly plus icon shiny</string>
 			<key>PayloadDisplayName</key>
 			<string>Web Clip (Fly Plus )</string>
 			<key>PayloadIdentifier</key>
@@ -1994,11 +1994,11 @@ oeKUdKQ9aAFHPJpcChelLQB//9k=</data>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://www.zhanyar.ml/</string>
+			<string>https://www.flyplus.ml/</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string></string>
+	<string>fly plus icon shiny</string>
 	<key>PayloadDisplayName</key>
 	<string>Fly Plus </string>
 	<key>PayloadIdentifier</key>
